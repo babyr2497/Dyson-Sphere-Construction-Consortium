@@ -9,3 +9,5 @@ P
  contracts/dyson-segment-nft.clar,3/7/3741857e1b78cfb55ce21ef68663206e3c50e2e6
 O
 tests/dyson-segment-nft.test.ts,1/1/113966f4016493807be9a600c3eea8d54617a85d
+I
+contracts/governance.clar,3/e/3e11ff9ecf5cff40241c69670308e29f84df23b7
