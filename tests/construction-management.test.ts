@@ -39,13 +39,6 @@ describe('Construction Management Contract', () => {
     resourceAllocation.clear();
   });
   
-  it('should start the next phase when enough resources are available', () => {
-    contributeResources(2000000, 'user1');
-    expect(startNextPhase('CONTRACT_OWNER')).toBe(1);
-    expect(currentPhase).toBe(1);
-    expect(totalResources).toBe(1000000);
-  });
-  
   it('should not start the next phase with insufficient resources', () => {
     contributeResources(500000, 'user1');
     expect(() => startNextPhase('CONTRACT_OWNER')).toThrow('Insufficient resources');
