@@ -15,3 +15,5 @@ H
 tests/governance.test.ts,c/e/ce14344de9ea9b63c3c2c3228c80d12874bc7dff
 U
 %contracts/simulation-integration.clar,f/b/fbd5b1bd08b7ccedf650a88cbe8020af8f5bd711
+T
+$tests/simulation-integration.test.ts,7/7/777f641fb5be31cda5ed79650c0efc3c22ff503c
