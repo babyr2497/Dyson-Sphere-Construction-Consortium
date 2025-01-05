@@ -13,3 +13,5 @@ I
 contracts/governance.clar,3/e/3e11ff9ecf5cff40241c69670308e29f84df23b7
 H
 tests/governance.test.ts,c/e/ce14344de9ea9b63c3c2c3228c80d12874bc7dff
+U
+%contracts/simulation-integration.clar,f/b/fbd5b1bd08b7ccedf650a88cbe8020af8f5bd711
